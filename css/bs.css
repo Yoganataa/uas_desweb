@@ -3,7 +3,6 @@ aside,
 details,
 figcaption,
 figure,
-footer,
 header,
 hgroup,
 main,
@@ -684,7 +683,7 @@ pre code {
   .container {
     width: 750px;
   } */
-}
+
 @media (min-width: 992px) {
   .container {
     width: 970px;
