@@ -131,6 +131,9 @@ li{
 a, a:hover, a:visited, a:focus {
   text-decoration:none;
 }
+/* p{
+  text-align: justify;
+} */
 
 /*wsui-shadow-on-scroll Start*/
 .wsui-shadow-on-scroll {
